@@ -13,7 +13,8 @@ One way to run the Python script is to copy 'main.py' from the PyBank folder to 
 Make sure that you run the script in the same directory where it is stored. The path will be shown at the top of the editor.
 
 
-<img width="882" alt="Screenshot 2025-01-13 at 4 50 22 PM" src="https://github.com/user-attachments/assets/1829b1ae-e81d-46dd-b931-e9ca575744f9" />
+<img width="882" alt="Screenshot 2025-01-13 at 4 50 22 PM" src="https://github.com/user-attachments/assets/fd582168-411b-4813-9007-00e5389a77f2" />
+
 
 
 Use 'python main.py' code to run the script
