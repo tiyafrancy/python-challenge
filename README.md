@@ -16,9 +16,6 @@ Make sure that you run the script in the same directory where it is stored. The 
 <img width="882" alt="Screenshot 2025-01-13 at 4 50 22 PM" src="https://github.com/user-attachments/assets/fd582168-411b-4813-9007-00e5389a77f2" />
 
 
-
-
-
 Use 'python main.py' code to run the script. It will print the results in the Terminal.
  
 
