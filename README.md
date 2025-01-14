@@ -30,7 +30,6 @@ This will also create a new text file, "budget_analysis.txt" that contains the o
 If there is already an output file in the analysis folder, make sure you delete that file, inorder to see a new output text file creation.
 
  
-<img width="576" alt="Screenshot 2025-01-13 at 5 00 52 PM" src="https://github.com/user-attachments/assets/6d34c6fa-17bb-4060-9033-19e15c89387a" />
 
 ## PyPoll
 
@@ -38,13 +37,18 @@ For this challenge,open the PyPoll folder and use the csv file, 'election_data.c
 
 ### To run the script
 
-use the same method as above to run the Python script, main.py from the PyPoll folder. We will get the following output 
+use the same method as above to run the Python script, main.py from the PyPoll folder. We will get the following output in the Terminal
 
 
 
+<img width="522" alt="Screenshot 2025-01-13 at 10 25 36 PM" src="https://github.com/user-attachments/assets/0abb3065-aba7-482d-9ea3-3cbb49eec3c7" />
 
 
-<img width="454" alt="Screenshot 2025-01-13 at 5 18 34 PM" src="https://github.com/user-attachments/assets/f6be48e6-0705-42cc-8b23-6d16769f2717" />
+
+And the Output text file, "election_analysis.txt" is also created
+
+
+<img width="533" alt="Screenshot 2025-01-13 at 11 03 16 PM" src="https://github.com/user-attachments/assets/7d981392-3aba-4b63-bfac-393335bc0548" />
 
 
 
@@ -54,5 +58,5 @@ use the same method as above to run the Python script, main.py from the PyPoll f
 ## Acknowledgment
 
 I have done this assignment using the help of some internet searches and some help from my SMU Instructor.
-![image](https://github.com/user-attachments/assets/68e12470-2b43-4718-9aa2-ffa04e5e4595)
+
 
