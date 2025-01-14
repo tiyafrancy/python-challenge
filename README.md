@@ -1,6 +1,6 @@
 # Module 3 Challenge
 
-In this Python challenge, we are asked to create a git repository named python-challenge. We have to create 2 folders for 2 different challenges inside this repository. Also, write Python Script using the given datasets to produce the desired output. Output must be printed in a different text file.
+In this Python challenge, we are asked to create a git repository named python-challenge. We have to create 2 folders for 2 different challenges inside this repository. Also, write Python Script using the given datasets to produce the desired output. Output must be printed in a different text file as well as in the Terminal.
 
 ## PyBank
 
