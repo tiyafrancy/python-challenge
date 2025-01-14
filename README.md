@@ -17,6 +17,8 @@ Make sure that you run the script in the same directory where it is stored. The 
 
 
 
+
+
 Use 'python main.py' code to run the script. It will print the results in the Terminal.
  
 
