@@ -17,14 +17,17 @@ Make sure that you run the script in the same directory where it is stored. The 
 
 
 
-Use 'python main.py' code to run the script
-
-
-<img width="527" alt="Screenshot 2025-01-13 at 4 54 25 PM" src="https://github.com/user-attachments/assets/79533df1-a942-4079-aa78-8a429c6e30ad" />
+Use 'python main.py' code to run the script. It will print the results in the Terminal.
  
 
-This will create a new text file that contains the output in the analysis folder.
-If there is already an output file in the analysis folder, make sure you delete that file, inorder to see a new output text file.
+<img width="504" alt="Screenshot 2025-01-13 at 10 17 45 PM" src="https://github.com/user-attachments/assets/05e553e6-72f3-49fb-a4e5-607b93e7ff25" />
+
+
+This will also create a new text file, "budget_analysis.txt" that contains the output in the analysis folder.
+
+<img width="576" alt="Screenshot 2025-01-13 at 5 00 52 PM" src="https://github.com/user-attachments/assets/73b89251-5184-49d8-a461-ed0256d4a237" />
+
+If there is already an output file in the analysis folder, make sure you delete that file, inorder to see a new output text file creation.
 
  
 <img width="576" alt="Screenshot 2025-01-13 at 5 00 52 PM" src="https://github.com/user-attachments/assets/6d34c6fa-17bb-4060-9033-19e15c89387a" />
